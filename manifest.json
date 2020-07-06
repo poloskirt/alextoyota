@@ -1,0 +1,36 @@
+ 
+  {
+  "name": "Alextoyota",
+  "short_name": "alextoyotajakartacenter",
+  "start_url": "https://alex.toyotajakartacenter.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-C9z_iEhwFww/XwNzy33o69I/AAAAAAAAAJM/KxHv5cn__TwxCSU5b57H5H2441lWfYhwgCK4BGAsYHg/d/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-b02TgknYv4o/XwNzzEp4H7I/AAAAAAAAAJQ/ghKq6QXsfqQujU_duIIpha4U0mPSbIMagCK4BGAsYHg/d/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-pabElkvmc4Q/XwNxw5sPbdI/AAAAAAAAAIM/0Tz2IWr1hd0y8cfazNuxsooNLxFJ6xDNACK4BGAsYHg/d/favicon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-x0ohznx9TGo/XwNzzsdrpAI/AAAAAAAAAJU/phAYpm2rn-IvLV5Gf0DkpBOmWaSB6KdawCK4BGAsYHg/ms-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-8b9pD6zU4q4/XwNzz1W5QAI/AAAAAAAAAJY/4AUT2XCzchAPst8d0aAQ71_YcB0u4Qi0QCK4BGAsYHg/ms-icon-150x150.png",
+    "sizes": "150x150",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-mYGFjBnnWdg/XwNxxAWAAjI/AAAAAAAAAIQ/GyYlte-_cIctur1C-vH7g3bX1ezyzAeIQCK4BGAsYHg/d/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  }
+  }]
+}
